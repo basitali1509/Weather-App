@@ -1,16 +1,14 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+![Image](https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/2509f55768636454a0e9115d829415a4?response-content-disposition=inline;+filename=%22image_large%22;+filename*=utf-8%27%27image_large&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHYaCXVzLXdlc3QtMiJIMEYCIQD11w1rDkxK4tUBKNlw7g7yK9%2BRnFzKbE33RujEyfMUygIhAKwDdMEul315ygR9BOTVLoNAy1/UN6ndMivJayG%2B1sfTKtYECM///////////wEQABoMNzM5OTM5MTczODE5IgxeoloMBmUMm81rVdkqqgQ/K1315ssOhKTU/lQQacgOEWh2VkyTvmT%2BiFuKmn2pT9qvEiAtjAegMMBE%2BzI1pIcl1%2Bly9AXJR3hNfwv4eh1hYW3E/VFF1DW8FPXTW8HYsRbjGTxMDLFFTK0TXTEtoNfCOhTXxk1oIPjzdlyXSPVewGczaGKbmkBqsU6rdZQuN3JYBcgtOcSwN6dK4oXgWfAKIBWX54JISpDbbbtmZK6cKyJyWFoCWKXx76D00Ru3%2B5sQK0H2/IQw323ORBDihbN%2BcnT1fXSRT4O3bg5HCRNdbpp1z8lY2HQtsx/N4DVlOqJr4Qgfkvj1h1v5okj1HQAJvHOJrM8SY7c9pkhkm4/GwGjVsDOe1J5qwBZNycghKxlqkDlBVNoynBJnRS3ccsZ9eFJQgGxTKep3uHTu889ycT8Pmfdd54YtVFaRclDEdMeY8AzUm4j/0JPu5NKsoKelX6XutxpicL0yoh6IiegNGhF5CSqGzfsk2sdiGAojHuFi9eQSvRUojT8hK47b8OcoIgs98J5AdK9kJtDKRUyu8taHJYuV57m3COyGSy5F/ME9L38mhzcnx1Ig%2BYrPP2x5ixsvOWwCQwgdlz74jqyliA549JlQTiQNTlQCHuV9mrBmMenaDD4tYX3DJHYSusV%2BBvbKOnN8AoPRP5FCMkr7eT9f6LWwMJ7PYed2EKJHxS9oErOEUmHUZYm8k5woRa3XmZNdz/rMMC9TH/2aMeaclhdhUjl4XLqQlzD9uc%2BkBjqmAUSAV5zVTsiuVVpFDp41ixUshGRjAcWFEEe9A7l2ZBRxq%2BFzGEo4ZHMc7rUhtxyxrfldhE7yzZ0xhtOAMqw61FDDRCDUXX/%2BmtHbZOQoBxkvGiNzP7I8XYCAr1CaBJV0GjZDOjr3ZxF5oZnjw2UVEovNFShGJxXTkQJ%2BSroBjaR9F3KZLUwCrnahw2WMl9u%2BniMXbXo/JUROEE870QH8fFpY1x3IlbA=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230622T065850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5Y4DYN7VD/20230622/us-west-2/s3/aws4_request&X-Amz-Signature=11e14efb8524ca57eaa8539f8bfae2b168f4f1f342d705ce107ade56917c1ae6)
 
-## Getting Started
+# - [See Demo](https://www.linkedin.com/feed/update/urn:li:activity:7042535290955010048/?originTrackingId=%2BY3z%2Frg1Sg%2BN2zAeu2QPQw%3D%3D)
 
-This project is a starting point for a Flutter application.
+## About App
 
-A few resources to get you started if this is your first Flutter project:
+A weather application using Flutter that displays real-time weather data for any city.
+The application fetches the data from server using REST APIs. Provider state management has been implemented for the efficient management of the application state.
+Additionally, the MVVM architecture pattern has been used to ensure that the application is easy to understand, maintain and modify for future development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
