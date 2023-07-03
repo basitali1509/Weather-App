@@ -1,6 +1,6 @@
 # Weather App
 
-![Image](https://res.cloudinary.com/dyduvs3s5/image/upload/v1688323475/ofmxnlcydhqtvvnp1evt.png)
+![ProjectImage](https://res.cloudinary.com/dyduvs3s5/image/upload/v1688323475/ofmxnlcydhqtvvnp1evt.png)
 
 # - [See Demo](https://www.linkedin.com/feed/update/urn:li:activity:7042535290955010048/?originTrackingId=%2BY3z%2Frg1Sg%2BN2zAeu2QPQw%3D%3D)
 
